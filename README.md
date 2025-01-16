@@ -15,4 +15,4 @@ The primary goal of this dashboard is to empower job seekers, career changers, a
 
 ![Snapshot](Job_Analysis.png)
 
-*Access the interactive version via this [Tableau Public link](https://public.tableau.com/views/DataJobAnalysis_17369523845880/JobAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+*Access the interactive version via this <a href="https://public.tableau.com/views/DataJobAnalysis_17369523845880/JobAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">[Tableau Public link]</a>*  *[Tableau Public link]*
